@@ -1,2 +1,2 @@
 @echo off 
-python C:\counter-auto\counter_updater.py 
+C:\Python314\python.exe C:\counter-auto\counter_updater.py 
